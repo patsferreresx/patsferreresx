@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! 👋, I'm Pats Ferrer!</h1>
-<h3 align="center">Desenvolvedora Full Stack, cursando Análise e Desenvolvimento de Sistemas, Pequena Gafanhota do Gustavo Guanabara, Recode Pro 2023, ONE - Oracle Next Education + Alura. Apaixonada por games, músicas e viagens! Às vezes faço lives na twitch! Meus [Links](https://patsferrer.github.io/links/)!</h3>
+<h3 align="center">Desenvolvedora Full Stack, cursando Análise e Desenvolvimento de Sistemas, Pequena Gafanhota do Gustavo Guanabara, Recode Pro 2023, ONE - Oracle Next Education + Alura. Apaixonada por games, músicas e viagens!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patsferrer&label=Profile%20views&color=0e75b6&style=flat" alt="patsferrer" /> </p>
 
